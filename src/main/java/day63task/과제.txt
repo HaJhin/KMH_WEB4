@@ -1,0 +1,11 @@
+[JPA 과제]
+    주제 : '나만의 할 일 목록' Restful API 구축, JPA 활용
+        1. 나만의 할일 목록의 Controller , Service , Repository , Entity , Dto , AppStart 구현
+        2. entity <-> Dto 변환 함수 활용
+        3. BaseTime 사용
+            1. 할일 등록
+            2. 할일 전체 조회
+            3. 할일 상태 수정
+            4. 할일 삭제
+
+            할일 속성 : 할일 식별 번호(pk) , 할일 내용 , 할일 상태 + 등록날짜 , 수정날짜
