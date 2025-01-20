@@ -1,0 +1,4 @@
+package day64task.model.entity;
+
+public class CategoryEntity {
+}
